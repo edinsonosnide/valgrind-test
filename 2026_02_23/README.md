@@ -17,4 +17,4 @@ Ejercicio que muestra la diferencia entre definir variables que usan la memoria 
 
 # Ejercicio 03
 
-Ejercicio que muestra que es más rápido pasar un argumento de una función usando punteros (referencia) que usando una copia (valor)
+Ejercicio que muestra que es más rápido pasar un argumento de una función usando punteros (referencia) que usando una copia (valor) ya que en el primer caso solo se copia la dirección de memoria (8 bytes) y en la otra crea una copia completa de la estructura cada vez que se llama.

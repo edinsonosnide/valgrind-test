@@ -8,12 +8,11 @@
 
 # Ejercicio 01
 
-En este primer ejercicio vamos a usar la herramienta Valgrind para valorar que
- tantos accesos hacen a la memoria cache se ejecuta un programa
+En este primer ejercicio vamos a usar la herramienta Valgrind para valorar que tantos accesos hacen a la memoria cache se ejecuta un programa.
 
 # Ejercicio 02
 
-Ejercicio que muestra la diferencia entre definir variables que usan la memoria stac o la memoria heap
+Ejercicio que muestra la diferencia entre definir variables que usan la memoria stack o la memoria heap. Se enseña que la memoeria stack tiene un límite pequeño de almacenamiento (8192kb) mientras el heap es mucho mayor (hasta llenar la RAM).
 
 # Ejercicio 03
 

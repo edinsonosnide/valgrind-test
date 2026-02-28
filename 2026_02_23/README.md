@@ -14,3 +14,7 @@ En este primer ejercicio vamos a usar la herramienta Valgrind para valorar que
 # Ejercicio 02
 
 Ejercicio que muestra la diferencia entre definir variables que usan la memoria stac o la memoria heap
+
+# Ejercicio 03
+
+Ejercicio que muestra que es más rápido pasar un argumento de una función usando punteros (referencia) que usando una copia (valor)

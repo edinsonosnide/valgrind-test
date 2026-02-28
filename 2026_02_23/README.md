@@ -8,7 +8,10 @@
 
 # Ejercicio 01
 
-En este primer ejercicio vamos a usar la herramienta Valgrind para valorar que tantos accesos hacen a la memoria cache se ejecuta un programa.
+En este primer ejercicio vamos a usar la herramienta Valgrind para valorar que tantos accesos se hacen a la memoria cache cuando se ejecuta un programa.
+Que evidencia:
+- Por filas: acceso secuencial, aprovecha la localidad espacial y la cache.
+- Por columnas: salto de memoria grande, mas fallos de cache y menor rendimiento.
 
 # Ejercicio 02
 
